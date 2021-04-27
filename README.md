@@ -1,7 +1,7 @@
-#Demo..
+#Demo
 
-Test Description.
+Test Description
 
-##Subheader.
+##Subheader
 
 New addition
