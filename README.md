@@ -1,5 +1,5 @@
 #Demo
-...
+
 Test Description
 
 ##Subheader
